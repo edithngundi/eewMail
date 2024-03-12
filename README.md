@@ -6,4 +6,4 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://raw.githubusercontent.com/edithngundi/eewMail/main/bestsellers.gif' title='Video Walkthrough' width='300' height='700' alt='Video Walkthrough'/>
+<img src='https://raw.githubusercontent.com/edithngundi/eewMail/main/eewmail.gif' title='Video Walkthrough' width='300' height='700' alt='Video Walkthrough'/>
